@@ -1,6 +1,6 @@
-<h2> Hi, I'm Nicolas!</h2>
+<h1> Hi, I'm Nicolas!</h1>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my page!</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my page!</h2>
 
 <p>
   </br> I'm a Quant developer from <img src="https://cdn-icons-png.flaticon.com/512/321/321211.png" width="13"/> <b>Catamarca, Argentina.
@@ -26,6 +26,6 @@ const Nicolas = {
 ```
 
 
-<h3>Contact me</h3>
+<h4>Contact me</h4>
 
 [![Linkedin: Nicolas Toledo](https://img.shields.io/badge/-NicolasToledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-toledo17/)](https://www.linkedin.com/in/nicolas-toledo17/)
